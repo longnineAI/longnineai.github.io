@@ -4,8 +4,6 @@ google.com, pub-1642669089068680, DIRECT, f08c47fec0942fa0
 pangleglobal.com, 5033453, DIRECT
 pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
 
-
-
 # Applovin
 applovin.com, 31bc4c52998c83b6f3bb5698ecf0a139, DIRECT
 adyoulike.com, 2d578cf695c89ec2ba707280319d2020, RESELLER
