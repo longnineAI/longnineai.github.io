@@ -1,5 +1,9 @@
 google.com, pub-1642669089068680, DIRECT, f08c47fec0942fa0
 
+# Meta
+facebook.com, 1298818015489200, DIRECT, c3e20eee3f780d68
+
+
 # Pangle 
 pangleglobal.com, 5033453, DIRECT
 pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
